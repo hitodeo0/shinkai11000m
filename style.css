@@ -53,7 +53,6 @@ td {
     color: #555555;
 }
 
-
 .prof {
     display: inline-block;
     text-align: center;
@@ -67,6 +66,10 @@ td {
     padding-left: 3em;
     font-size: 80%;
     color: #555555;
+}
+
+.setsumei td {
+    font-size: 100%;
 }
 
 .setsumeith {
