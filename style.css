@@ -9,6 +9,7 @@ html {
 }
 
 body {
+    margin: 5%;
     min-height: 100%;
     flex-direction: column;
     font-size: 100%;
@@ -42,14 +43,16 @@ td {
     text-align: left
 }
 
-th {
+.prof2 {
+    margin: 1em;
+    font-size: 80%;
+}
+
+.prof2 th {
     font-size: 90%;
     color: #555555;
 }
 
-.prof2 {
-    font-size: 80%;
-}
 
 .prof {
     display: inline-block;
@@ -60,7 +63,13 @@ th {
     width: 150px;
 }
 
-.setsumei {
+.setsumei th {
+    padding-left: 3em;
+    font-size: 80%;
+    color: #555555;
+}
+
+.setsumeith {
     font-size: 80%;
     color: #555555;
 }
