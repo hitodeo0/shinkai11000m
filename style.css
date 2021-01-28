@@ -79,6 +79,27 @@ td {
     width: 400px;
 }
 
+/*アプリサイト用*/
+hr {
+    border: none;
+    border-top: 1px dashed #ccc;
+    height: 1em;
+    text-align: center;
+    overflow: visible;
+}
+
+hr:after {
+    content: "\002702";
+    background: rgba(255, 255, 255, 0);
+    color: #ccc;
+    display: inline-block;
+    height: 2em;
+    line-height: 2em;
+    position: relative;
+    top: -1em;
+    padding: 0 0.5em;
+}
+
 @media screen and (min-width:961px) {
     /*pc用のcssを記述*/
 }
@@ -117,6 +138,10 @@ td {
     }
 
     .thumbnail {
+        width: 100%;
+    }
+
+    .unity {
         width: 100%;
     }
 }
