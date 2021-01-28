@@ -113,6 +113,10 @@ hr:after {
         font-size: 4vw;
     }
 
+    .app {
+        font-size: 100%;
+    }
+
     table,
     th,
     td {
@@ -149,5 +153,4 @@ hr:after {
     .unity600900 {
         width: 94%;
     }
-
 }
