@@ -104,52 +104,8 @@ hr:after {
     font-size: 80%;
 }
 
-@media screen and (min-width:961px) {
-    /*pc用のcssを記述*/
-}
 
 @media only screen and (max-width:500px) {
-    body {
-        font-size: 4vw;
-    }
-
-    .app body {
-        font-size: 100%;
-    }
-
-    table,
-    th,
-    td {
-        margin: 0;
-        padding: 0;
-        border: 0;
-        outline: 0;
-        font-size: 85%;
-        vertical-align: baseline;
-        background: transparent;
-        font-weight: normal;
-        text-align: left
-    }
-
-    .icon {
-        width: 60%;
-    }
-
-    .setsumei th {
-        padding-left: 1em;
-        font-size: 80%;
-        color: #555555;
-    }
-
-    .setsumei td {
-        font-size: 100%;
-    }
-
-    .thumbnail {
-        width: 100%;
-    }
-
-
     .unity600900 {
         width: 94%;
     }
