@@ -22,17 +22,22 @@
     }
 
     .icon {
-        width: 60%;
+        width: 50%;
     }
 
     .setsumei th {
         padding-left: 1em;
         font-size: 80%;
-        color: #555555;
     }
 
     .setsumei td {
         font-size: 100%;
+    }
+    
+    .games li{
+        list-style: none;
+        position: relative;
+        width: 100%;
     }
 
     .thumbnail {
