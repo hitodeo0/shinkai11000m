@@ -83,16 +83,16 @@ td {
 
 /*放置してるサイト用*/
 .houchi{
-    color: #dddddd;
+    color: #bbbbbb;
 }
 .houchi img{
-    opacity: 0.7;
+    opacity: 0.5;
 }
 .houchi th{
-    color: #dddddd;
+    color: #bbbbbb;
 }
 .houchi a{
-    color: #dddddd;
+    color: #bbbbbb;
 }
 
 /*ゲームのとこ*/
