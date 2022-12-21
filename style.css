@@ -71,6 +71,10 @@ td {
     vertical-align: middle;
 }
 
+.setsumei td {
+    min-width: 5em;
+}
+
 .setsumei th {
     padding-left: 2em;
     font-size: 80%;
