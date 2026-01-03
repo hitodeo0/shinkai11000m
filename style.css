@@ -59,6 +59,10 @@ td {
 .prof {
     display: inline-block;
     text-align: center;
+    /* カード風 */
+    padding: 1em;
+    border: #191919 2px solid ;
+    border-radius: 6px;
 }
 
 .icon {
